@@ -164,85 +164,85 @@
     {
       "RelativePath": "PatchTest_Data/app.info",
       "Size": 24,
-      "LastWriting": "2021-08-13T03:24:48.5951612Z",
+      "LastWriting": "2021-08-13T03:52:50.3379212Z",
       "Hash": "iwCwf4bf1DCQshD4t6YaGvIThMg",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/boot.config",
       "Size": 113,
-      "LastWriting": "2021-08-13T03:24:46.6438438Z",
+      "LastWriting": "2021-08-13T03:52:48.4311142Z",
       "Hash": "6/wI+EhY1qGKibEsdvbM+/Wj0Rk",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/globalgamemanagers",
       "Size": 45124,
-      "LastWriting": "2021-08-13T03:24:46.1570299Z",
-      "Hash": "Wi/vhzCKU0EZIuI7zLnVjth9/xw",
+      "LastWriting": "2021-08-13T03:52:48.1623026Z",
+      "Hash": "1MZBawFzC/AUN4L1eMxMFo2x0RY",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/globalgamemanagers.assets",
       "Size": 55804,
-      "LastWriting": "2021-08-13T03:24:46.2623495Z",
+      "LastWriting": "2021-08-13T03:52:48.278198Z",
       "Hash": "Xfw4cIqma0Uw66cQIUsnk7aL91Y",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/level0",
       "Size": 16880,
-      "LastWriting": "2021-08-13T03:24:44.9764826Z",
+      "LastWriting": "2021-08-13T03:52:47.0424853Z",
       "Hash": "sWDGyKlhn1CfuqKjOJwIapfsvMY",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/level1",
-      "Size": 6536,
-      "LastWriting": "2021-08-13T03:24:45.0819007Z",
-      "Hash": "Fmg2zVJ/oUgSbjY/aes7oDJOwk4",
+      "Size": 6608,
+      "LastWriting": "2021-08-13T03:52:47.1574927Z",
+      "Hash": "7lGfAK6unypKKGkxObFtsZz04YM",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/resources.assets",
       "Size": 60040,
-      "LastWriting": "2021-08-13T03:24:46.2932702Z",
+      "LastWriting": "2021-08-13T03:52:48.3055195Z",
       "Hash": "TKz06ywzweRhXqJnk6bpgjkdJm4",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/resources.assets.resS",
       "Size": 13435736,
-      "LastWriting": "2021-08-13T03:24:46.2932702Z",
+      "LastWriting": "2021-08-13T03:52:48.3045209Z",
       "Hash": "i5eISgDA7ea7TVRSqmqq/TD/mYU",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/sharedassets0.assets",
       "Size": 16084,
-      "LastWriting": "2021-08-13T03:24:46.4414158Z",
+      "LastWriting": "2021-08-13T03:52:48.3155433Z",
       "Hash": "Rxb46er6sukEmDJoR8DS14gog2c",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/sharedassets0.assets.resS",
       "Size": 174816,
-      "LastWriting": "2021-08-13T03:24:46.4414158Z",
+      "LastWriting": "2021-08-13T03:52:48.3155433Z",
       "Hash": "uUh1l1ZcMjZcxM/9BDmwVeifhXY",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/sharedassets1.assets",
       "Size": 4265,
-      "LastWriting": "2021-08-13T03:24:46.4453914Z",
+      "LastWriting": "2021-08-13T03:52:48.3194723Z",
       "Hash": "Mkon3pwKimOBSRBxWfjlHlB8kIs",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/Managed/Assembly-CSharp.dll",
       "Size": 28672,
-      "LastWriting": "2021-08-13T03:24:44.3851041Z",
-      "Hash": "EKAqpsbzs3IEcSG57jtAQbDVyu8",
+      "LastWriting": "2021-08-13T03:52:46.3678003Z",
+      "Hash": "jDuJ2YrGF0ZIV/of3QKXfG0jyfw",
       "Attributes": 8224
     },
     {
@@ -549,15 +549,15 @@
     {
       "RelativePath": "PatchTest_Data/Managed/Unity.TextMeshPro.dll",
       "Size": 368128,
-      "LastWriting": "2021-08-13T03:24:44.2103485Z",
-      "Hash": "MYWUXWJBou8VlosZw32ZAkIKiuE",
+      "LastWriting": "2021-08-13T03:52:46.1915616Z",
+      "Hash": "rkYXJxoM+TpsQIceSajfG6k6RN4",
       "Attributes": 8224
     },
     {
       "RelativePath": "PatchTest_Data/Managed/Unity.Timeline.dll",
       "Size": 108544,
-      "LastWriting": "2021-08-13T03:24:44.0697626Z",
-      "Hash": "/Pl1ipfzcwOpnIu42ve8NxjcMSI",
+      "LastWriting": "2021-08-13T03:52:46.0669808Z",
+      "Hash": "D0rySpfasYTlQUuxOA3ptRAZD8Q",
       "Attributes": 8224
     },
     {
@@ -857,8 +857,8 @@
     {
       "RelativePath": "PatchTest_Data/Managed/UnityEngine.UI.dll",
       "Size": 225792,
-      "LastWriting": "2021-08-13T03:24:43.68645Z",
-      "Hash": "BCtFUwZmui5jNj8kuWBWcvGasY0",
+      "LastWriting": "2021-08-13T03:52:45.7134934Z",
+      "Hash": "SO8O9S5s4wDJgB2H3GCAXaqfKDo",
       "Attributes": 8224
     },
     {
@@ -997,14 +997,14 @@
     {
       "RelativePath": "PatchTest_Data/Resources/unity_builtin_extra",
       "Size": 405200,
-      "LastWriting": "2021-08-13T03:24:46.6408428Z",
+      "LastWriting": "2021-08-13T03:52:48.4301175Z",
       "Hash": "s42REuhzjU6Ska/eIz3nOWinF8U",
       "Attributes": 8224
     },
     {
       "RelativePath": "version.data",
       "Size": 24,
-      "LastWriting": "2021-08-13T03:25:08.9240954Z",
+      "LastWriting": "2021-08-13T03:52:57.635348Z",
       "Hash": "9FqdPckhNfnJaFBj2Rgaiusd2pU",
       "Attributes": 32
     }
