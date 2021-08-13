@@ -4,8 +4,8 @@ ScriptsOnlyBuild:
     - MHLab.Patch.Admin.Editor.AdminWindow
     Assembly-CSharp.dll:
     - MHLab.Patch.Launcher.Scripts.Dispatcher
-    - MHLab.Patch.Launcher.Scripts.Launcher
     - MHLab.Patch.Launcher.Scripts.LauncherData
+    - MHLab.Patch.Launcher.Scripts.LauncherUpdater
     - MHLab.Patch.Launcher.Scripts.UI.Dialog
     - MHLab.Patch.Launcher.Scripts.UI.OptionsScreen
     - MHLab.Patch.Launcher.Scripts.UI.ProgressBar
@@ -30,7 +30,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/MHLab/Patch/Launcher/Scenes/Launcher.unity:
+    Assets/MHLab/Patch/Launcher/Scenes/PreGame.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -58,6 +58,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11266}
     - Class: 114
+      Script: {instanceID: 11370}
+    - Class: 114
       Script: {instanceID: 11472}
     - Class: 114
       Script: {instanceID: 11660}
@@ -74,8 +76,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12766}
     - Class: 114
-      Script: {instanceID: 12870}
-    - Class: 114
       Script: {instanceID: 13144}
     - Class: 115
       Script: {instanceID: 0}
@@ -86,6 +86,51 @@ ScriptsOnlyBuild:
     - Class: 196
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/MHLab/Patch/Launcher/Scenes/SampleGame.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11244}
+    - Class: 114
+      Script: {instanceID: 11266}
+    - Class: 114
+      Script: {instanceID: 11472}
+    - Class: 114
+      Script: {instanceID: 11868}
+    - Class: 114
+      Script: {instanceID: 12766}
+    - Class: 114
+      Script: {instanceID: 13144}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
       Script: {instanceID: 0}
     - Class: 222
       Script: {instanceID: 0}
@@ -558,5 +603,6 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 5
   scenePathNames:
-  - Assets/MHLab/Patch/Launcher/Scenes/Launcher.unity
-  playerPath: C:/Users/Glad Park/Documents/Github/PatchTestWebServer/PatchTestProject/PATCHWorkspace/Updater/PatchTestPatch.exe
+  - Assets/MHLab/Patch/Launcher/Scenes/PreGame.unity
+  - Assets/MHLab/Patch/Launcher/Scenes/SampleGame.unity
+  playerPath: C:/Users/Glad Park/Documents/Github/PatchTestWebServer/PatchTestProject/PATCHWorkspace/App/PatchTest.exe
