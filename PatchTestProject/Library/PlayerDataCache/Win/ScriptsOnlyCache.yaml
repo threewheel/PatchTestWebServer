@@ -10,7 +10,6 @@ ScriptsOnlyBuild:
     - MHLab.Patch.Launcher.Scripts.UI.OptionsScreen
     - MHLab.Patch.Launcher.Scripts.UI.ProgressBar
     Unity.Rider.Editor.dll:
-    - Packages.Rider.Editor.RiderScriptEditorData
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
@@ -560,4 +559,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/MHLab/Patch/Launcher/Scenes/Launcher.unity
-  playerPath: C:/Users/Glad Park/Documents/Github/PatchTestWebServer/PatchTestProject/PATCHWorkspace/App/PatchTestPatch.exe
+  playerPath: C:/Users/Glad Park/Documents/Github/PatchTestWebServer/PatchTestProject/PATCHWorkspace/Updater/PatchTestPatch.exe
