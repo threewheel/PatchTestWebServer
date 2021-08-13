@@ -560,4 +560,4 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/MHLab/Patch/Launcher/Scenes/Launcher.unity
-  playerPath: C:/Users/Glad Park/Documents/Github/PatchTestWebServer/PatchTestProject/PATCHWorkspace/Updater/PatchTest.exe
+  playerPath: C:/Users/Glad Park/Documents/Github/PatchTestWebServer/PatchTestProject/PATCHWorkspace/App/PatchTestPatch.exe
